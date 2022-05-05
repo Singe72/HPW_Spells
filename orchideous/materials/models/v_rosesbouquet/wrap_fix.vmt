@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/v_rosesbouquet/wrap"
+	"$bumpmap" "models/v_rosesbouquet/wrap_nrm"
+}

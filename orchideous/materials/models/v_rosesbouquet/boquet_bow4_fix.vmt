@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/v_rosesbouquet/boquet_bow4"
+	"$bumpmap" "models/v_rosesbouquet/bumpmap_flat"
+	
+	"$phong"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	60
+	"$phongboost" 		4
+    $phongfresnelranges               "[1.0 1.0 1.0]"
+}
