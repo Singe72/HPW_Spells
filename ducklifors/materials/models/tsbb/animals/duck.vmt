@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/TSBB/Animals/Duck"
+	"$nocull" "1"
+}
+
+
